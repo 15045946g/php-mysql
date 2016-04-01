@@ -21,13 +21,15 @@ if ($result) {
 // Populate the table
 $prints = array(
     array(1, "sssAn advanced digital camera with interchangable lenses. Varieties of colours available",
-     'camera01.jpg', 9000, 6, 'Digital Camera'),
-
+     'camera01.jpg', 9000, 6, 'Digital Camera')
     array(2, "This external HDD is compatible with USB 3.0 for fast transfers.",
      'hdd02.jpg', 600, 10, 'External Hard Disk Drive'),
-	 
     array(3, "A stylish watch that can pair with your smartphone to show notifications.",
      'watch03.jpg', 100, 0, 'Smart Watch')
+     array(3, "A stylish watch that can pair with your smartphone to show notifications.",
+     'watch03.jpg', 100, 0, 'test1')
+     array(3, "A stylish watch that can pair with your smartphone to show notifications.",
+     'watch03.jpg', 100, 0, 'test2')
     
 );
 
