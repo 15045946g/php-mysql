@@ -27,9 +27,9 @@ $prints = array(
     array(3, "A stylish watch that can pair with your smartphone to show notifications.",
      'watch03.jpg', 100, 0, 'Smart Watch')
      array(3, "A stylish watch that can pair with your smartphone to show notifications.",
-     'watch03.jpg', 100, 0, 'test1')
+     'Nikelogo.png', 100, 0, 'test1')
      array(3, "A stylish watch that can pair with your smartphone to show notifications.",
-     'watch03.jpg', 100, 0, 'test2')
+     'Nikelogo.png', 100, 0, 'test2')
     
 );
 
