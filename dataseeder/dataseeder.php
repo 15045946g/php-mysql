@@ -20,7 +20,7 @@ if ($result) {
 
 // Populate the table
 $prints = array(
-    array(1, "An advanced digital camera with interchangable lenses.",
+    array(1, "An advanced digital camera with interchangable lenses. Varieties of colours available",
      'camera01.jpg', 9000, 6, 'Digital Camera'),
 
     array(2, "This external HDD is compatible with USB 3.0 for fast transfers.",
